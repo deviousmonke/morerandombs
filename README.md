@@ -1,6 +1,4 @@
-**Clone for Game Archives**
-
--
+## **Clone for Game Archives**
 💬 **Discord**: [Official Discord](https://discord.gg/Vf8gx85t).          
 
 ⏰ **Expected Arrival**: November or December
